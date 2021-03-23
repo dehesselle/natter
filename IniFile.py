@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: MIT
-# https://github.com/dehesselle/MyPythonToolbox
+# https://github.com/dehesselle/natter
 
 # usage:
 #
